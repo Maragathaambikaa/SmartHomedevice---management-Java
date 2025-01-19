@@ -1,0 +1,11 @@
+1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	1	camera	spy	working	coimbatore	2	light	light	on	room	1	camera	spy	working	coimbatore	2	light	light	on	room	1	camera	spy	working	coimbatore	2	light	light	on	room	1	camera	spy	working	coimbatore	2	light	light	on	room	1	camera	spy	working	coimbatore
+2	light	light	on	room
+1	camera	spy	working	coimbatore
+2	light	light	on	room
+1	camera	spy	working	coimbatore
+2	light	light	on	room
+1	camera	spy	working	coimbatore
+2	light	light	on	room
+1	camera	spy	working	coimbatore
+2	light	light	on	room
+1	camera	spy	working	coimbatore	2	light	light	on	room	3	LED	LIght	success	bedroom	
